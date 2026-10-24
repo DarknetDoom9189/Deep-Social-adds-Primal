@@ -4,8 +4,7 @@
 </div>
 
 ### Overview
-
-Primal Server includes caching, membership, discovery and media caching services for Nostr. It connects to the specified set of relays, collects all events in real time, stores them locally, and makes them available to nostr clients through a web socket-based API.
+Deep Social can and will connect and send stuff to Primal so Primal will be used as a Backend Server for Deep Social, Primal Server includes caching, membership, discovery and media caching services for Nostr. It connects to the specified set of relays, collects all events in real time, stores them locally, and makes them available to nostr clients through a web socket-based API.
 
 It is written in OCaml 5 (Eio). The earlier Julia and Rust implementation was retired in October 2026;
 its code is in the tag `julia-final`, which the "Julia ..." provenance comments in the OCaml sources
