@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-    <img src="https://primal.net/assets/logo_fire-409917ad.svg" alt="Logo" width="80" height="80">
+    <img src="Gemini_Generated_Image_m9acslm9acslm9ac.jpeg" alt="Logo" width="80" height="80">
 </div>
 
 ### Overview
